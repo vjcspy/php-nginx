@@ -1,0 +1,7 @@
+/.vscode
+/.idea
+/data/*
+/logs/*
+/www/**
+/config/**
+.DS_Store
